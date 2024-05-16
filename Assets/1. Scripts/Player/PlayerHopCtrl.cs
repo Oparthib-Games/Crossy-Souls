@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerCtrl : MonoBehaviour
+public class PlayerHopCtrl : MonoBehaviour
 {
     [SerializeField] private Vector3 hopPos;
     [SerializeField] private float faceYRot;
